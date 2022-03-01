@@ -21,6 +21,7 @@ public class Resta {
 		Integer res = s.resta(10, 6);
 		Integer res2= s.restaAcumulada(2);
 		
+		//Test oara probar los metodos
 		System.out.println("Resta de los numeros 10 y 6 es: "  + res);
 		System.out.println("La resta acumulada es: " + res2);
 
