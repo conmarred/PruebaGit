@@ -23,7 +23,6 @@ public class Suma {
 		Integer res = s.suma(3, 6);
 		Integer res2= s.sumaAcumulada(2);
 		
-		//Test oara probar los metodos
 		System.out.println("Suma de los numeros 3 y 6 es: "  + res);
 		System.out.println("La suma acumulada es: " + res2);
 
