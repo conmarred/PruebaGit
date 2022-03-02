@@ -28,5 +28,5 @@ public class Suma {
 		System.out.println("La suma acumulada es: " + res2);
 		//Cambio en clase suma
 	}
-
+	//Un comentario para generar conficto
 }
