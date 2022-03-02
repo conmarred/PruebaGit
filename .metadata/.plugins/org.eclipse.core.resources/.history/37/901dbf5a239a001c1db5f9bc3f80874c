@@ -25,7 +25,5 @@ public class Resta {
 		System.out.println("La resta acumulada es: " + res2);
 
 	}
-	
-	//Añado un comentario para realizar el commit en la ramaB
 
 }
