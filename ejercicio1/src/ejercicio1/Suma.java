@@ -26,7 +26,7 @@ public class Suma {
 		//Test oara probar los metodos
 		System.out.println("Suma de los numeros 3 y 6 es: "  + res);
 		System.out.println("La suma acumulada es: " + res2);
-
+		//Cambio en clase suma
 	}
-
+	//Un comentario para generar conficto
 }
